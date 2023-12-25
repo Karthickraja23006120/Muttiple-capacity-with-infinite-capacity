@@ -22,7 +22,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![Screenshot 2023-12-25 120428](https://github.com/Karthickraja23006120/Muttiple-capacity-with-infinite-capacity/assets/139335315/8826b5dd-65ac-40e5-9662-f3bdae708328)
 
 ## Program
-
+~~~
 #Developed By : Karthick Raja K
 #Reference No. :23006120
 import math
@@ -56,6 +56,7 @@ print("Probability that the system is empty : %0.2f "%(1-rho))
 else:
 print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
+~~~
 ## Output :
 ![IMG-20231225-WA0013](https://github.com/Karthickraja23006120/Muttiple-capacity-with-infinite-capacity/assets/139335315/75504fb6-0a71-4a03-a100-4710a2233442)
 
